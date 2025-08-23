@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Τα ονόματα συνταγών πρέπει να είναι μοναδικά",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Η συνταγή δημιουργήθηκε",
         "recipe-defaults": {
             "ingredient-note": "1 Κούπα Αλεύρι",

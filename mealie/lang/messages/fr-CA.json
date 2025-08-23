@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Les noms de recette doivent être uniques",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recette créée",
         "recipe-defaults": {
             "ingredient-note": "1 tasse de Farine",

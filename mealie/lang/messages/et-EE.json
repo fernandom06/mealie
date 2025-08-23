@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Retseptide nimed peavad olema unikaalsed",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Retsept loodud",
         "recipe-defaults": {
             "ingredient-note": "1 tass jahu",

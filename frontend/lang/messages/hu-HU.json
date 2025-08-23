@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Kulcs hozzáadása",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Hozzáadás a kedvencekhez",
     "api-extras": "API Extrák",
     "calories": "Kalória",

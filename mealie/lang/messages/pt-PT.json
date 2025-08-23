@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Os nomes de receitas devem ser únicos",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Receita criada",
         "recipe-defaults": {
             "ingredient-note": "1 Chávena de Farinha",

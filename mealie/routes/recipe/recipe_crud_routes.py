@@ -87,6 +87,12 @@ class RecipeController(BaseRecipeController):
         elif thrownType == sqlalchemy.exc.IntegrityError:
             self.logger.error("SQL Integrity Error on recipe controller action")
             raise HTTPException(status_code=400, detail=ErrorResponse.respond(message="Recipe already exists"))
+        elif thrownType == exceptions.SlugError:
+            self.logger.error("Failed to generate a valid slug from recipe name")
+            raise HTTPException(
+                status_code=status.HTTP_400_BAD_REQUEST,
+                detail=ErrorResponse.respond(self.t("recipe.invalid-recipe-name")),
+            )
         else:
             self.logger.error("Unknown Error on recipe controller action")
             self.logger.exception(ex)

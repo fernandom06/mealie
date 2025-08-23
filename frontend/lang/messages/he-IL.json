@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "הוספת מפתח",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "הוספה למועדפים",
     "api-extras": "תוספות API",
     "calories": "קלוריות",

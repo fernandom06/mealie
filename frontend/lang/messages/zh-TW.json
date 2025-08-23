@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "新增密鑰",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "添加到我的最愛",
     "api-extras": "API 更多",
     "calories": "卡路里",

@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "I nomi delle ricette devono essere univoci",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Ricetta Creata",
         "recipe-defaults": {
             "ingredient-note": "1 Tazza Di Farina",

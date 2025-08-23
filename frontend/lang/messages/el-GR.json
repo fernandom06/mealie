@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Προσθήκη Κλειδιού",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Προσθήκη στα Aγαπημένα",
     "api-extras": "API Extras",
     "calories": "Θερμίδες",

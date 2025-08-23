@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Voeg sleutel by",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Voeg by gunstelinge",
     "api-extras": "API ekstras",
     "calories": "Kalorieë",

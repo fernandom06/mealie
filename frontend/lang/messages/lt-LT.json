@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Pridėti raktą",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Pridėti prie mėgstamų",
     "api-extras": "API priedai",
     "calories": "Kalorijos",

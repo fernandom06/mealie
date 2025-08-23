@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Reseptien nimien täytyy olla yksilöllisiä",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Resepti luotu",
         "recipe-defaults": {
             "ingredient-note": "1 kupillinen jauhoja",

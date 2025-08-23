@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Pridať kľúč",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Pridať do obľúbených",
     "api-extras": "API doplnky",
     "calories": "Kalórie",

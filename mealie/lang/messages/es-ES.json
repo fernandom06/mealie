@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "El nombre de la receta debe ser único",
+        "invalid-recipe-name": "El nombre de la receta no puede estar vacío o contener solo caracteres especiales",
         "recipe-created": "Receta creada",
         "recipe-defaults": {
             "ingredient-note": "1 Taza de harina",

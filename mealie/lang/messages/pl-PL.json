@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Nazwy przepisów muszą być unikatowe",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Utworzono przepis",
         "recipe-defaults": {
             "ingredient-note": "1 szklanka mąki",

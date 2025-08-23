@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Opskriftsnavnet er allerede i brug",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Opskrift oprettet",
         "recipe-defaults": {
             "ingredient-note": "1 kop mel",

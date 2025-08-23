@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Rezeptnamen müssen einzigartig sein",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Rezept erstellt",
         "recipe-defaults": {
             "ingredient-note": "250 g Mehl",

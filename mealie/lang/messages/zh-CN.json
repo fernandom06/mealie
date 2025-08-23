@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "食谱名称必须唯一",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recipe Created",
         "recipe-defaults": {
             "ingredient-note": "1杯面粉",

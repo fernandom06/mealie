@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Legg til nøkkel",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Legg til i favoritter",
     "api-extras": "API-tillegg",
     "calories": "Kalorier",

@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "키 추가",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "즐겨찾기에 추가",
     "api-extras": "API Extras",
     "calories": "칼로리",

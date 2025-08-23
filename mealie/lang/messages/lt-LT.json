@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Receptų pavadinimai turi būti unikalūs",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Receptas sukurtas",
         "recipe-defaults": {
             "ingredient-note": "1 Cup Flour",

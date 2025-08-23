@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "レシピ名が重複しています",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "レシピが作成されました",
         "recipe-defaults": {
             "ingredient-note": "小麦粉1カップ",

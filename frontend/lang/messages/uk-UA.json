@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Додати ключ",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Додати в улюблені",
     "api-extras": "Додаткове API",
     "calories": "Калорії",

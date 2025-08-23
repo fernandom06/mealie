@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Lisa võti",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Lisa lemmik",
     "api-extras": "API lisad",
     "calories": "Kalorid",

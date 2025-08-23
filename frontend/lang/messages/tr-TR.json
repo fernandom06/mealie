@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Anahtar Ekle",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Sık kullanılanlara ekle",
     "api-extras": "API Ekstraları",
     "calories": "Kalori",

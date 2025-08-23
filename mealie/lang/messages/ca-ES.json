@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "El nom de la recepta ha de ser únic",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recepta creada",
         "recipe-defaults": {
             "ingredient-note": "1 tassa de farina",

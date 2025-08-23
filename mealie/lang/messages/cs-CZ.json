@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Názvy receptů musí být jedinečné",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recept byl vytvořen",
         "recipe-defaults": {
             "ingredient-note": "1 hrnek mouky",

@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Numele rețetei trebuie să fie unic",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Rețetă creată",
         "recipe-defaults": {
             "ingredient-note": "1 Cană de Făină",

@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Sleutel toevoegen",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Toevoegen aan favorieten",
     "api-extras": "API-extra's",
     "calories": "Calorieën",

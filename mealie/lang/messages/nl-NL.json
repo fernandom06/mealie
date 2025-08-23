@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Receptnamen moeten uniek zijn",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recept aangemaakt op",
         "recipe-defaults": {
             "ingredient-note": "250 gram bloem",

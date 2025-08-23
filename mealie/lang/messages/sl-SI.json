@@ -18,6 +18,7 @@
             "yields": "donosi"
         }
     },
+    "invalid-recipe-name": "Unable to generate slug",
     "mealplan": {
         "no-recipes-match-your-rules": "Noben recept ne ustreza vašim pogojem"
     },

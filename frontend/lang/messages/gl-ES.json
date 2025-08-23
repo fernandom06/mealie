@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Engadir Chave",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Engadir a Favoritos",
     "api-extras": "Extras da API",
     "calories": "Calorías",

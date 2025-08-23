@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Назва рецепту повинна бути унікальною",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Рецепт створено",
         "recipe-defaults": {
             "ingredient-note": "Стакан борошна",

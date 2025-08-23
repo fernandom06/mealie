@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Adăugați cheia",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "Adaugă la Favorite",
     "api-extras": "API Extras",
     "calories": "Calorii",

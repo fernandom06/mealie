@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "Naziv recepta mora imati jedinstveno ime",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recipe Created",
         "recipe-defaults": {
             "ingredient-note": "1 Cup Flour",

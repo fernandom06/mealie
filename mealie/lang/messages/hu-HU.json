@@ -4,6 +4,7 @@
     },
     "recipe": {
         "unique-name-error": "A receptek neveinek egyedi értéknek kell lenniük",
+        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recept létrehozva",
         "recipe-defaults": {
             "ingredient-note": "1 csésze liszt",

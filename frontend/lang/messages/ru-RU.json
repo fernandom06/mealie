@@ -461,6 +461,7 @@
   },
   "recipe": {
     "add-key": "Добавить ключ",
+    "invalid-recipe-name": "Unable to generate slug",
     "add-to-favorites": "В избранное",
     "api-extras": "Дополнительные API",
     "calories": "Энергетическая ценность",
