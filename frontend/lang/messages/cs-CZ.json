@@ -5,7 +5,7 @@
     "api-docs": "Dokumentace API",
     "api-port": "API port",
     "application-mode": "Režim aplikace",
-    "database-type": "Typ databáze",
+    "database-type": "Database Type",
     "database-url": "URL databáze",
     "default-group": "Výchozí skupina",
     "default-household": "Výchozí domácnost",
@@ -69,6 +69,7 @@
     "new-notification": "Nové oznámení",
     "event-notifiers": "Notifikace událostí",
     "apprise-url-skipped-if-blank": "Apprise URL (přeskočeno pokud je prázdné)",
+    "apprise-url-is-left-intentionally-blank": "Since Apprise URLs typically contain sensitive information, this field is left intentionally blank while editing. If you wish to update the URL, please enter the new one here, otherwise leave it blank to keep the current URL.",
     "enable-notifier": "Povolit notifikaci",
     "what-events": "K jakým událostem by se měl tento oznamovatel přihlásit?",
     "user-events": "Uživatelské události",
@@ -79,7 +80,8 @@
     "tag-events": "Události tagu",
     "category-events": "Události kategorie",
     "when-a-new-user-joins-your-group": "Když se nový uživatel připojí do vaší skupiny",
-    "recipe-events": "Události receptu"
+    "recipe-events": "Události receptu",
+    "label-events": "Label Events"
   },
   "general": {
     "add": "Přidat",
@@ -473,6 +475,7 @@
     "comment": "Komentář",
     "comments": "Komentáře",
     "delete-confirmation": "Opravdu chcete smazat tento recept?",
+    "admin-delete-confirmation": "You're about to delete a recipe that isn't yours using admin permissions. Are you sure?",
     "delete-recipe": "Smazat recept",
     "description": "Popis",
     "disable-amount": "Nezobrazovat množství ingrediencí",
@@ -580,9 +583,14 @@
     "made-this": "Toto jsem uvařil",
     "how-did-it-turn-out": "Jak to dopadlo?",
     "user-made-this": "{user} udělal toto",
+    "added-to-timeline": "Added to timeline",
+    "failed-to-add-to-timeline": "Failed to add to timeline",
+    "failed-to-update-recipe": "Failed to update recipe",
+    "added-to-timeline-but-failed-to-add-image": "Added to timeline, but failed to add image",
     "api-extras-description": "Recepty jsou klíčovým rysem rozhraní pro API Mealie. Umožňují vytvářet vlastní klíče/hodnoty JSON v rámci receptu pro odkazy na aplikace třetích stran. Tyto klíče můžete použít pro poskytnutí informací, například pro aktivaci automatizace nebo vlastních zpráv pro přenos do požadovaného zařízení.",
     "message-key": "Klíč zprávy",
     "parse": "Analyzovat",
+    "ingredients-not-parsed-description": "It looks like your ingredients aren't parsed yet. Click the \"{parse}\" button below to parse your ingredients into structured foods.",
     "attach-images-hint": "Přiložit obrázky přetažením jich do editoru",
     "drop-image": "Vložit obrázek",
     "enable-ingredient-amounts-to-use-this-feature": "Chcete-li tuto funkci používat, povolte množství ingrediencí",
@@ -659,13 +667,17 @@
       "no-unit": "Žádná jednotka",
       "missing-unit": "Vytvořit chybějící jednotku: {unit}",
       "missing-food": "Vytvořit chybějící jídlo: {food}",
+      "this-unit-could-not-be-parsed-automatically": "This unit could not be parsed automatically",
+      "this-food-could-not-be-parsed-automatically": "This food could not be parsed automatically",
       "no-food": "Žádné jídlo"
     },
     "reset-servings-count": "Resetovat počet porcí",
     "not-linked-ingredients": "Další ingredience",
-    "upload-another-image": "Upload another image",
-    "upload-images": "Upload images",
-    "upload-more-images": "Upload more images"
+    "upload-another-image": "Nahrát další obrázek",
+    "upload-images": "Nahrát obrázky",
+    "upload-more-images": "Nahrát více obrázků",
+    "set-as-cover-image": "Set as recipe cover image",
+    "cover-image": "Cover image"
   },
   "recipe-finder": {
     "recipe-finder": "Vyhledávač receptů",
@@ -1158,7 +1170,7 @@
     "group-details": "Podrobnosti o skupině",
     "group-details-description": "Než vytvoříte svůj účet, musíte vytvořit skupinu. Vaše skupina bude obsahovat pouze vás, ale později budete moct přizvat jiné uživatele. Členové vaší skupiny mohou sdílet jídelníčky, nákupní seznamy, recepty a další!",
     "use-seed-data": "Použít Seed Data",
-    "use-seed-data-description": "Mealie obsahuje kolekci potravin, jednotek a popisků, které můžete použít ve své skupině pro organizování svých receptů.",
+    "use-seed-data-description": "Mealie ships with a collection of Foods, Units, and Labels that can be used to populate your group with helpful data for organizing your recipes. These are translated into the language you currently have selected. You can always add to or modify this data later.",
     "account-details": "Podrobnosti účtu"
   },
   "validation": {
