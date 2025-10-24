@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "I nomi delle ricette devono essere univoci",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Ricetta Creata",
         "recipe-defaults": {
             "ingredient-note": "1 Tazza Di Farina",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} è stato creato, {url}",
         "generic-updated-with-url": "{name} è stato aggiornato, {url}",
         "generic-duplicated": "{name} è stato duplicato",
-        "generic-deleted": "{name} è stato eliminato"
+        "generic-deleted": "{name} è stato eliminato",
+        "logged-out": "Disconnesso"
     },
     "datetime": {
         "year": "anno|anni",

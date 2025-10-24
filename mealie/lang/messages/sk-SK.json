@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Názov receptu musí byť unikátny",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Vytvorený recept",
         "recipe-defaults": {
             "ingredient-note": "1 šálka múky",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} bol vytvorený, {url}",
         "generic-updated-with-url": "{name} bol aktualizovaný, {url}",
         "generic-duplicated": "{name} bol duplikovaný",
-        "generic-deleted": "{name} bol vymazaný"
+        "generic-deleted": "{name} bol vymazaný",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "rok|roky",

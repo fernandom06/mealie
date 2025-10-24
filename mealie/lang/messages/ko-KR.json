@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Recipe 이름은 고유해야 합니다",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recipe Created",
         "recipe-defaults": {
             "ingredient-note": "밀가루 1컵",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} has been created, {url}",
         "generic-updated-with-url": "{name} has been updated, {url}",
         "generic-duplicated": "{name} has been duplicated",
-        "generic-deleted": "{name} has been deleted"
+        "generic-deleted": "{name} has been deleted",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "year|years",

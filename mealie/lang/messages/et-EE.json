@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Retseptide nimed peavad olema unikaalsed",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Retsept loodud",
         "recipe-defaults": {
             "ingredient-note": "1 tass jahu",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} loodud, {url}",
         "generic-updated-with-url": "{name} uuendatud, {url}",
         "generic-duplicated": "{name} on duplitseeritud",
-        "generic-deleted": "{name} kustutatud"
+        "generic-deleted": "{name} kustutatud",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "aasta|aastad",

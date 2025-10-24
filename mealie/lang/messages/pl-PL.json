@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Nazwy przepisów muszą być unikatowe",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Utworzono przepis",
         "recipe-defaults": {
             "ingredient-note": "1 szklanka mąki",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "Stworzono {name}, {url}",
         "generic-updated-with-url": "Zaktualizowano {name}, {url}",
         "generic-duplicated": "Zduplikowano {name}",
-        "generic-deleted": "Usunięto {name}"
+        "generic-deleted": "Usunięto {name}",
+        "logged-out": "Wylogowano"
     },
     "datetime": {
         "year": "rok|lat",

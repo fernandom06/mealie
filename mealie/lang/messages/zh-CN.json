@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "食谱名称必须唯一",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "创建食谱",
         "recipe-defaults": {
             "ingredient-note": "1杯面粉",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} 已创建， {url}",
         "generic-updated-with-url": "{name} 已创建， {url}",
         "generic-duplicated": "{name} 已复制",
-        "generic-deleted": "{name} 已删除"
+        "generic-deleted": "{name} 已删除",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "年|年",

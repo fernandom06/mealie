@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Название рецепта должно быть уникальным",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Рецепт создан",
         "recipe-defaults": {
             "ingredient-note": "1 Чашка муки",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} был создан, {url}",
         "generic-updated-with-url": "{name} был обновлен, {url}",
         "generic-duplicated": "Копия {name} была создана",
-        "generic-deleted": "{name} был удален"
+        "generic-deleted": "{name} был удален",
+        "logged-out": "Выполнен выход"
     },
     "datetime": {
         "year": "год|лет",

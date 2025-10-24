@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Názvy receptů musí být jedinečné",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recept byl vytvořen",
         "recipe-defaults": {
             "ingredient-note": "1 hrnek mouky",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} byl vytvořen, {url}",
         "generic-updated-with-url": "{name} byl aktualizován, {url}",
         "generic-duplicated": "{name} byl duplikován",
-        "generic-deleted": "{name} byl odstraněn"
+        "generic-deleted": "{name} byl odstraněn",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "rok|roky",

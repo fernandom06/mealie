@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "El nom de la recepta ha de ser únic",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recepta creada",
         "recipe-defaults": {
             "ingredient-note": "1 tassa de farina",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} ha estat creat, {url}",
         "generic-updated-with-url": "{name} ha estat actualitzat, {url}",
         "generic-duplicated": "S'ha duplicat {name}",
-        "generic-deleted": "{name} ha estat eliminat"
+        "generic-deleted": "{name} ha estat eliminat",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "any|anys",

@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "El nombre de la receta debe ser único",
-        "invalid-recipe-name": "El nombre de la receta no puede estar vacío o contener solo caracteres especiales",
         "recipe-created": "Receta creada",
         "recipe-defaults": {
             "ingredient-note": "1 Taza de harina",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "Se ha creado {name}, {url}",
         "generic-updated-with-url": "Se ha actualizado {name}, {url}",
         "generic-duplicated": "Se ha duplicado {name}",
-        "generic-deleted": "Se ha eliminado {name}"
+        "generic-deleted": "Se ha eliminado {name}",
+        "logged-out": "Desconectado"
     },
     "datetime": {
         "year": "año|años",

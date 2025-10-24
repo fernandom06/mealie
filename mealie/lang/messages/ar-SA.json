@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "يجب أن تكون أسماء الوصفات فريدة",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "تم إنشاء الوصفة",
         "recipe-defaults": {
             "ingredient-note": "كوب 1 طحين",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "تم إنشاء {name}، {url}",
         "generic-updated-with-url": "{name} تم تحديثه، {url}",
         "generic-duplicated": "تم تكرار {name}",
-        "generic-deleted": "تم حذف {name}"
+        "generic-deleted": "تم حذف {name}",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "سنة|سنوات",

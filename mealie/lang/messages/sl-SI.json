@@ -18,7 +18,6 @@
             "yields": "donosi"
         }
     },
-    "invalid-recipe-name": "Unable to generate slug",
     "mealplan": {
         "no-recipes-match-your-rules": "Noben recept ne ustreza vašim pogojem"
     },
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} je bil narejen, {url}",
         "generic-updated-with-url": "{name} je bil posodobljen, {url}",
         "generic-duplicated": "{name} je bilo podvojeno",
-        "generic-deleted": "{name} je bil izbrisan"
+        "generic-deleted": "{name} je bil izbrisan",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "leto|let",

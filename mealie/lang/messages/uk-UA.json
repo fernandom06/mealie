@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Назва рецепту повинна бути унікальною",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Рецепт створено",
         "recipe-defaults": {
             "ingredient-note": "Стакан борошна",
@@ -15,8 +14,8 @@
             "serves": "Подає",
             "serving": "Порція",
             "servings": "Порції",
-            "yield": "Yield",
-            "yields": "Yields"
+            "yield": "Вихід",
+            "yields": "Вихід"
         }
     },
     "mealplan": {
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} створено, {url}",
         "generic-updated-with-url": "{name} оновлено, {url}",
         "generic-duplicated": "{name} дубльовано",
-        "generic-deleted": "{name} видалено"
+        "generic-deleted": "{name} видалено",
+        "logged-out": "Вихід із системи"
     },
     "datetime": {
         "year": "рік|роки",

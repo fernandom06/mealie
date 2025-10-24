@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Naziv recepta mora imati jedinstveno ime",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recipe Created",
         "recipe-defaults": {
             "ingredient-note": "1 Cup Flour",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} je kreiran, {url}",
         "generic-updated-with-url": "{name} je ažuriran, {url}",
         "generic-duplicated": "{name} je dupliciran",
-        "generic-deleted": "{name} je obrisan"
+        "generic-deleted": "{name} je obrisan",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "year|years",

@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "שמות מתכונים חייבים להיות ייחודיים",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "מתכון נוצר",
         "recipe-defaults": {
             "ingredient-note": "כוס קמח",
@@ -44,7 +43,8 @@
         "generic-created-with-url": "{name} נוצר, {url}",
         "generic-updated-with-url": "{name} עודכן, {url}",
         "generic-duplicated": "{name} שוכפל",
-        "generic-deleted": "{name} נמחק"
+        "generic-deleted": "{name} נמחק",
+        "logged-out": "Logged out"
     },
     "datetime": {
         "year": "שנה|שנים",
