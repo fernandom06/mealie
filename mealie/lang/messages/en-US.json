@@ -4,7 +4,6 @@
     },
     "recipe": {
         "unique-name-error": "Recipe names must be unique",
-        "invalid-recipe-name": "Unable to generate slug",
         "recipe-created": "Recipe Created",
         "recipe-defaults": {
             "ingredient-note": "1 Cup Flour",
